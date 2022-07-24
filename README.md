@@ -1,6 +1,7 @@
 This Repository is a part of my College OOPS Mini-Project. COLLEGE MANAGEMENT SYSTEM
 
 WHAT DOES THE PROJECT ACTUALLY AIM AND HOW IT WORKS? We have created a college management system in which we can store the data of professors and students and then also fetch them accordingly. It also allows user to remove a professor or a student.
+
 • Recruit a professor -> makes you add professor details.
 • Search for a professor -> displays the professor information.
 • Remove a professor-> makes you remove data of professor.
@@ -8,6 +9,7 @@ WHAT DOES THE PROJECT ACTUALLY AIM AND HOW IT WORKS? We have created a college m
 • Search for a student-> displays the student info.
 • Remove a student->make you remove data of a student.
 • Exit->ends the program.
+
 The names suggest what the functions would do. However, “Search for a professor” further takes the user to another menu.
 “Professor information block” which includes the following options->
 • Fetch the details of all the professors.
@@ -16,6 +18,7 @@ The names suggest what the functions would do. However, “Search for a professo
 • Fetch the details of the professors by subject.
 • Fetch the details of the professors by college.
 • Return to main menu.
+
 So, this menu allows us to search for Professors by various ways.
 Similarly, “Student information block” which includes the following options->
 • Fetch the details of all the students.
