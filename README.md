@@ -29,22 +29,22 @@ Similarly, “Student information block” which includes the following options-
 
 WHAT WE USED-> • SWITCH CASE: -Switch case statement is used when we have multiple conditions and we need to perform different actions based on the condition.
 
-• FUNCTIONS LIKE: - fflush(stdin) used to empty the buffer.
+• FUNCTIONS LIKE:- fflush(stdin) used to empty the buffer.
 
-• LOOPS: - a)while loop b)for loop c)range-based for loop: -It is a new feature of C++ which was added in C++11. Also range based for loop will only work in code editors like “Code Blocks” and “Visual Studio”.
+• LOOPS:- a)while loop b)for loop c)range-based for loop: -It is a new feature of C++ which was added in C++11. Also range based for loop will only work in code editors like “Code Blocks” and “Visual Studio”.
 
-• IF ELSE STATEMENTS: -It is used to execute some statement code block if the expression is evaluated to true, otherwise executes “else” statement code block.
+• IF ELSE STATEMENTS:-It is used to execute some statement code block if the expression is evaluated to true, otherwise executes “else” statement code block.
 
-• Classes and Objects: - A class in C++ is a user defined data type or data structure. In simple words, a class is a collection of objects of similar type. It is an instance of a class. When a class is defined, no memory is allocated but when object is instantiated memory is allocated.
+• Classes and Objects:- A class in C++ is a user defined data type or data structure. In simple words, a class is a collection of objects of similar type. It is an instance of a class. When a class is defined, no memory is allocated but when object is instantiated memory is allocated.
 
-• Getline() method: -It is used so that while taking input, space is also taken as input.
+• Getline() method:-It is used so that while taking input, space is also taken as input.
 
-• ENCAPSULATION: - Binding data members and member functions in one unit known as a class. With the help of this concept, data is not accessible to the outside world and only those functions which are declared in the class, can access it.
+• ENCAPSULATION:- Binding data members and member functions in one unit known as a class. With the help of this concept, data is not accessible to the outside world and only those functions which are declared in the class, can access it.
 
-• INHERITANCE: -Inheritance is a process by which objects of new class acquire the properties of objects of existing class. Using Inheritance, we can increase a class’s functionalities.
+• INHERITANCE:- Inheritance is a process by which objects of new class acquire the properties of objects of existing class. Using Inheritance, we can increase a class’s functionalities.
 
-• DATA HIDING: -Using access specifiers like public, private and protected we can choose which members can be accessed by outside sources and which members cannot.
+• DATA HIDING:- Using access specifiers like public, private and protected we can choose which members can be accessed by outside sources and which members cannot.
 
-• STL: - We used classes defined in Standard Template Library like "string" and "vector" classes.
+• STL:- We used classes defined in Standard Template Library like "string" and "vector" classes.
 
-• POINTERS: -We used “this” pointer to get and set the values of data members. Whenever a member function
+• POINTERS:- We used “this” pointer to get and set the values of data members. Whenever a member function
